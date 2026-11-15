@@ -27,23 +27,6 @@ Real expertise comes from understanding attack methodologies, practicing in hand
 
 Our focus is to make advanced cybersecurity knowledge accessible through practical learning, technical research, and open-source resources.
 
-## 🎯 WHAT WE DO
-
-We focus on developing practical skills across multiple cybersecurity domains.
-
-| 🔐 Domain | 💻 Specialization |
-|---|---|
-| Ethical Hacking | Penetration Testing & Exploitation |
-| OSCP Preparation | Practical Pentesting Methodology |
-| Active Directory | Enterprise AD Attacks & Security |
-| Red Teaming | Adversary Simulation & Operations |
-| AI Security | AI & LLM Penetration Testing |
-| API Security | API Vulnerability Assessment |
-| Cloud Security | Cloud Penetration Testing |
-| Bug Bounty | Vulnerability Research |
-| Windows Security | Windows Privilege Escalation |
-| Linux Security | Linux Privilege Escalation |
-
 ---
 
 ## 🚀 JOIN OUR CYBERSECURITY TRAINING PROGRAMS
