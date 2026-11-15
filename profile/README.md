@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🔥 IGNITE TECHNOLOGIES
+# 🔥 IGNITE TECHNOLOGIES (Hacking Articles)
 
 ### WE HACK. WE TEACH. WE SECURE.
 
