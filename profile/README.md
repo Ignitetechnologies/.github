@@ -120,20 +120,6 @@ Topics include:
 
 ---
 
-## 🤝 JOIN OUR CYBERSECURITY COMMUNITY
-
-We welcome cybersecurity enthusiasts, ethical hackers, researchers, developers, and students who are passionate about learning and sharing knowledge.
-
-**Let's learn, collaborate, and build a stronger cybersecurity community together.**
-
-- ⭐ Explore our open-source repositories.
-- 🔧 Contribute to cybersecurity projects.
-- 📖 Share knowledge and research.
-- 🤝 Collaborate on security initiatives.
-
----
-
-
 ## 🌐 CONNECT WITH US
 
 Stay connected with Ignite Technologies for cybersecurity
