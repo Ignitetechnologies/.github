@@ -44,33 +44,6 @@ We focus on developing practical skills across multiple cybersecurity domains.
 | Windows Security | Windows Privilege Escalation |
 | Linux Security | Linux Privilege Escalation |
 
-## 🔥 OUR TRAINING PROGRAMS
-
-Take your cybersecurity skills to the next level with practical, instructor-led training.
-
-**Explore our programs:**
-
-- 🎯 [OSCP-Focused Training](https://www.ignitetechnologies.in/ctf-advanced.php)
-- 🛡️ [Ethical Hacking](https://www.ignitetechnologies.in/ethical-hacking.php)
-- 🏢 [Active Directory Pentesting](https://www.ignitetechnologies.in/active-directory.php)
-- 🤖 [AI & LLM Pentesting](https://www.ignitetechnologies.in/ai-penetration.php)
-- ☁️ [Cloud Penetration Testing](https://www.ignitetechnologies.in/cloud-penetration.php)
-
-**Our Learning Philosophy:**
-
-Learn the concepts → Practice in labs → Understand attack techniques → Develop real-world skills.
-
-<div align="center">
-
-### 🚀 READY TO LEVEL UP YOUR CYBERSECURITY SKILLS?
-
-[![Explore Courses](https://img.shields.io/badge/EXPLORE_OUR_COURSES-IGNITE_TECHNOLOGIES-E63946?style=for-the-badge)](https://www.ignitetechnologies.in/)
-
-</div>
-
----
-
-
 ---
 
 ## 🚀 JOIN OUR CYBERSECURITY TRAINING PROGRAMS
@@ -82,12 +55,11 @@ hands-on, instructor-led cybersecurity training.
 
 **Explore Our Training Programs:**
 
-- 🎯 OSCP-Focused Penetration Testing
-- 🛡️ Ethical Hacking
-- 🏢 Active Directory Pentesting
-- 🤖 AI & LLM Pentesting
-- ☁️ Cloud Penetration Testing
-- 🔐 API Security
+- 🎯 [OSCP-Focused Training](https://www.ignitetechnologies.in/ctf-advanced.php)
+- 🛡️ [Ethical Hacking](https://www.ignitetechnologies.in/ethical-hacking.php)
+- 🏢 [Active Directory Pentesting](https://www.ignitetechnologies.in/active-directory.php)
+- 🤖 [AI & LLM Pentesting](https://www.ignitetechnologies.in/ai-penetration.php)
+- ☁️ [Cloud Penetration Testing](https://www.ignitetechnologies.in/cloud-penetration.php)
 
 <div align="left">
 
