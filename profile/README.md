@@ -184,23 +184,4 @@ knowledge, practical tutorials, research and training updates.
 
 <div align="center">
 
-### 🔥 JOIN OUR CYBERSECURITY COMMUNITY
-
-**Learn • Practice • Research • Secure**
-
-</div>
-
-
----
-
-<div align="center">
-
-# 🔥 IGNITE TECHNOLOGIES
-
-### WE HACK. WE TEACH. WE SECURE.
-
-**Building Skills. Sharing Knowledge. Strengthening Cybersecurity.**
-
-*Your Journey Into Advanced Cybersecurity Starts Here.*
-
 </div>
