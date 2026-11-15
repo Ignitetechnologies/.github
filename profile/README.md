@@ -129,15 +129,37 @@ We welcome cybersecurity enthusiasts, ethical hackers, researchers, developers, 
 
 ## 🌐 CONNECT WITH IGNITE TECHNOLOGIES
 
+
+## 🌐 CONNECT WITH US
+
+Stay connected with our cybersecurity community and get the latest updates, tutorials, research, and learning resources.
+
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ignitetechnologies.in-E63946?style=for-the-badge)](https://www.ignitetechnologies.in/)
+[![Website](https://img.shields.io/badge/Website-Ignite_Technologies-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ignitetechnologies.in/)
 
-[![Hacking Articles](https://img.shields.io/badge/Knowledge_Platform-Hacking_Articles-FF6B35?style=for-the-badge)](https://www.hackingarticles.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/hackingarticles/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-IgniteTechnologies-181717?style=for-the-badge&logo=github)](https://github.com/Ignitetechnologies)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x)](https://twitter.com/hackinarticles)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join-229ED9?style=for-the-badge&logo=telegram)](https://t.me/hackinarticles)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/HIOPPNENLOX6F1)
+
+[![Hacking Articles](https://img.shields.io/badge/Hacking_Articles-Explore-FF6B35?style=for-the-badge)](https://www.hackingarticles.in/)
 
 </div>
+
+---
+
+<div align="center">
+
+### 🔥 JOIN OUR CYBERSECURITY COMMUNITY
+
+**Learn • Practice • Research • Secure**
+
+</div>
+
 
 ---
 
