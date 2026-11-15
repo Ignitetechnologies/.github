@@ -70,6 +70,40 @@ Learn the concepts → Practice in labs → Understand attack techniques → Dev
 
 ---
 
+
+---
+
+## 🚀 JOIN OUR CYBERSECURITY TRAINING PROGRAMS
+
+Ready to advance your cybersecurity skills?
+
+Join Ignite Technologies and learn through practical,
+hands-on, instructor-led cybersecurity training.
+
+**Explore Our Training Programs:**
+
+- 🎯 OSCP-Focused Penetration Testing
+- 🛡️ Ethical Hacking
+- 🏢 Active Directory Pentesting
+- 🤖 AI & LLM Pentesting
+- ☁️ Cloud Penetration Testing
+- 🔐 API Security
+
+<div align="left">
+
+<a href="https://forms.gle/bowpX9TGEs41GDG99">
+<img src="https://img.shields.io/badge/REGISTER_NOW-Join_Our_Training_Programs-E63946?style=for-the-badge&logo=googleforms&logoColor=white" />
+</a>
+
+</div>
+
+**Have questions?**
+
+Visit: https://www.ignitetechnologies.in/
+
+---
+
+
 ## 💻 OPEN SOURCE & CYBERSECURITY RESOURCES
 
 We believe knowledge grows when it is shared.
