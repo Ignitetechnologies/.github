@@ -3,134 +3,152 @@
 
 # 🔥 IGNITE TECHNOLOGIES
 
-### We Hack. We Teach. We Secure.
+### WE HACK. WE TEACH. WE SECURE.
 
-**Cybersecurity Training | Security Research | Open Source | Penetration Testing**
+**ADVANCING CYBERSECURITY THROUGH KNOWLEDGE, RESEARCH & PRACTICAL TRAINING.**
 
-[![Website](https://img.shields.io/badge/Website-Ignite%20Technologies-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ignitetechnologies.in/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Repositories-black?style=for-the-badge&logo=github)](https://github.com/Ignitetechnologies)
-[![Blog](https://img.shields.io/badge/Blog-Hacking%20Articles-blue?style=for-the-badge&logo=hashnode)](https://www.hackingarticles.in/)
+[![Website](https://img.shields.io/badge/Official_Website-Visit_Us-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ignitetechnologies.in/)
+[![GitHub](https://img.shields.io/badge/GitHub-Open_Source_Projects-181717?style=for-the-badge&logo=github)](https://github.com/Ignitetechnologies)
+[![Hacking Articles](https://img.shields.io/badge/Hacking_Articles-Cybersecurity_Blog-FF6B35?style=for-the-badge)](https://www.hackingarticles.in/)
 
-*Empowering the cybersecurity community through practical knowledge, research, and open-source contributions.*
+*Learn. Practice. Explore. Secure.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Us
+## 🚀 WHO WE ARE
 
-**Ignite Technologies** is a cybersecurity training and consulting organization dedicated to developing the next generation of cybersecurity professionals.
+**Ignite Technologies** is a cybersecurity training and knowledge-sharing brand focused on building practical cybersecurity skills.
 
-Since 2015, we have been helping individuals, enterprises, and organizations strengthen their cybersecurity capabilities through practical training, security research, and professional security services.
+We believe cybersecurity cannot be mastered through theory alone.
 
-Our mission is simple:
+Real expertise comes from understanding attack methodologies, practicing in hands-on labs, exploring vulnerabilities, and learning how to defend digital infrastructure.
 
-> Help people understand cybersecurity through practical knowledge, research, and hands-on experience.
+Our focus is to make advanced cybersecurity knowledge accessible through practical learning, technical research, and open-source resources.
 
-We believe in learning by doing, exploring real-world attack techniques, and building practical security skills.
+## 🎯 WHAT WE DO
 
-## 🎯 Our Expertise
+We focus on developing practical skills across multiple cybersecurity domains.
 
-| Domain | Areas of Expertise |
+| 🔐 Domain | 💻 Specialization |
 |---|---|
-| 🔴 Offensive Security | Ethical Hacking, Penetration Testing |
-| 🌐 Web Security | OWASP Top 10, Web & API Pentesting |
-| 🏢 Active Directory | AD Attacks, Kerberos, BloodHound |
-| ☁️ Cloud Security | AWS, Azure, Cloud Pentesting |
-| 🤖 AI Security | LLM Pentesting, AI Agent Security |
-| 🎯 Red Teaming | Adversary Simulation, TTPs |
-| 🐛 Bug Bounty | Vulnerability Research, Exploitation |
-| 🪟 Windows Security | Windows Privilege Escalation |
-| 🐧 Linux Security | Linux Privilege Escalation |
-| 🏆 CTF | Capture The Flag & Advanced Labs |
+| Ethical Hacking | Penetration Testing & Exploitation |
+| OSCP Preparation | Practical Pentesting Methodology |
+| Active Directory | Enterprise AD Attacks & Security |
+| Red Teaming | Adversary Simulation & Operations |
+| AI Security | AI & LLM Penetration Testing |
+| API Security | API Vulnerability Assessment |
+| Cloud Security | Cloud Penetration Testing |
+| Bug Bounty | Vulnerability Research |
+| Windows Security | Windows Privilege Escalation |
+| Linux Security | Linux Privilege Escalation |
 
-## 🚀 What We Build & Share
+## 🔥 OUR TRAINING PROGRAMS
 
-We aim to contribute to the cybersecurity community through:
+Take your cybersecurity skills to the next level with practical, instructor-led training.
 
-- Open-source cybersecurity tools and resources.
-- Penetration testing methodologies.
-- Security research and technical documentation.
-- Active Directory attack and defense resources.
-- Windows and Linux privilege escalation techniques.
-- Capture The Flag (CTF) walkthroughs.
-- AI and LLM security research.
-- Practical cybersecurity learning materials.
+**Explore our programs:**
 
-## 📚 Cybersecurity Training Programs
+- 🎯 [OSCP-Focused Training](https://www.ignitetechnologies.in/ctf-advanced.php)
+- 🛡️ [Ethical Hacking](https://www.ignitetechnologies.in/ethical-hacking.php)
+- 🏢 [Active Directory Pentesting](https://www.ignitetechnologies.in/active-directory.php)
+- 🤖 [AI & LLM Pentesting](https://www.ignitetechnologies.in/ai-penetration.php)
+- ☁️ [Cloud Penetration Testing](https://www.ignitetechnologies.in/cloud-penetration.php)
 
-We offer practical, instructor-led cybersecurity training programs:
+**Our Learning Philosophy:**
+
+Learn the concepts → Practice in labs → Understand attack techniques → Develop real-world skills.
+
+<div align="center">
+
+### 🚀 READY TO LEVEL UP YOUR CYBERSECURITY SKILLS?
+
+[![Explore Courses](https://img.shields.io/badge/EXPLORE_OUR_COURSES-IGNITE_TECHNOLOGIES-E63946?style=for-the-badge)](https://www.ignitetechnologies.in/)
+
+</div>
+
+---
+
+## 💻 OPEN SOURCE & CYBERSECURITY RESOURCES
+
+We believe knowledge grows when it is shared.
+
+Explore our GitHub organization for cybersecurity projects, practical resources, research, and learning materials.
+
+Our areas of contribution include:
+
+- Penetration Testing Resources
+- Windows & Linux Privilege Escalation
+- Active Directory Security
+- Red Teaming Methodologies
+- Cybersecurity Mind Maps
+- CTF Learning Resources
+- Security Research & Documentation
+- Practical Hacking Techniques
+
+**Explore our repositories:**
+
+[![Repositories](https://img.shields.io/badge/Explore-All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Ignitetechnologies?tab=repositories)
+
+---
+
+## 📚 LEARN WITH HACKING ARTICLES
+
+Looking for practical cybersecurity tutorials, walkthroughs, and technical research?
+
+Explore **Hacking Articles**, our cybersecurity knowledge-sharing platform.
+
+Topics include:
 
 - Ethical Hacking
-- OSCP-Focused Penetration Testing
-- OSEP Training
-- Advanced Active Directory Pentesting
-- Red Team Operations
-- Bug Bounty Hunting
-- API Penetration Testing
-- AI & LLM Security
-- Cloud Penetration Testing
-- Android Penetration Testing
+- Penetration Testing
+- Active Directory Attacks
+- Linux & Windows Privilege Escalation
+- Web Application Security
+- Vulnerability Research
+- Red Teaming
+- Capture The Flag
 
-**Our approach: Learn → Practice → Build → Exploit → Secure**
+[![Read Hacking Articles](https://img.shields.io/badge/READ_HACKING_ARTICLES-EXPLORE_NOW-FF6B35?style=for-the-badge)](https://www.hackingarticles.in/)
 
-👉 Explore our programs: https://www.ignitetechnologies.in/
+---
 
-## 🛡️ Cybersecurity Services
+## 🤝 JOIN OUR CYBERSECURITY COMMUNITY
 
-We also help organizations improve their security posture through:
+We welcome cybersecurity enthusiasts, ethical hackers, researchers, developers, and students who are passionate about learning and sharing knowledge.
 
-- Infrastructure Security Assessment
-- Web Application Security Assessment
-- API Security Assessment
-- Android Application Security
-- Active Directory Security Assessment
-- Red Team Operations
-- Corporate Cybersecurity Training
-- CTF Design & Development
+**Let's learn, collaborate, and build a stronger cybersecurity community together.**
 
-## 🌍 Our Community & Knowledge Sharing
+- ⭐ Explore our open-source repositories.
+- 🔧 Contribute to cybersecurity projects.
+- 📖 Share knowledge and research.
+- 🤝 Collaborate on security initiatives.
 
-We believe cybersecurity knowledge should be accessible to everyone.
+---
 
-Our knowledge-sharing platforms:
+## 🌐 CONNECT WITH IGNITE TECHNOLOGIES
 
-- 🌐 **Hacking Articles:** https://www.hackingarticles.in/
-- 💻 **GitHub:** https://github.com/Ignitetechnologies
-- 🎓 **Ignite Technologies:** https://www.ignitetechnologies.in/
+<div align="center">
 
-## 🤝 Collaborate With Us
+[![Website](https://img.shields.io/badge/Website-ignitetechnologies.in-E63946?style=for-the-badge)](https://www.ignitetechnologies.in/)
 
-We welcome collaboration with:
+[![Hacking Articles](https://img.shields.io/badge/Knowledge_Platform-Hacking_Articles-FF6B35?style=for-the-badge)](https://www.hackingarticles.in/)
 
-- Cybersecurity Researchers
-- Ethical Hackers
-- Open-Source Developers
-- Security Professionals
-- Students & Cybersecurity Enthusiasts
-- Academic Institutions
-- Corporate Security Teams
+[![GitHub](https://img.shields.io/badge/GitHub-IgniteTechnologies-181717?style=for-the-badge&logo=github)](https://github.com/Ignitetechnologies)
 
-Interested in contributing or collaborating?
-
-Visit our website and connect with our team.
-
-## ⚠️ Responsible Security Research
-
-All security research and testing activities should be conducted only on systems you own or have explicit authorization to test.
-
-We promote ethical hacking, responsible disclosure, and cybersecurity awareness.
+</div>
 
 ---
 
 <div align="center">
 
-### 🔥 IGNITE TECHNOLOGIES
+# 🔥 IGNITE TECHNOLOGIES
 
-**We Hack. We Teach. We Secure.**
+### WE HACK. WE TEACH. WE SECURE.
 
-Building a more secure digital world through knowledge and innovation.
+**Building Skills. Sharing Knowledge. Strengthening Cybersecurity.**
 
-🌐 https://www.ignitetechnologies.in/
+*Your Journey Into Advanced Cybersecurity Starts Here.*
 
 </div>
